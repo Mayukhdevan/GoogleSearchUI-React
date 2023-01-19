@@ -1,0 +1,17 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+.list-item p {
+  color: #475569;
+  font-weight: 450;
+  opacity: .8;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+.list-item img {
+  width: 20px;
+  cursor: pointer;
+}
